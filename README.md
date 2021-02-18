@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live Project
 https://onlinecodeeditor.netlify.app/
 
+## Screenshot
+
+![alt text](https://i.imgur.com/bsmlEtB.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
